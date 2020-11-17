@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j0QbUiDolml2bF42qAHAID7AiakAZm1aSplCX9DhZyGqfb3CO7/1DYmLOc9bOvjUhquzc1XsqIXoKGE4kp833g==",
+  "success": true,
+  "projectFilePath": "C:\\poligon\\salary_test\\salary.data\\salary.data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oleg\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\oleg\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

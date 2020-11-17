@@ -62,7 +62,7 @@ namespace salary.Service
             if (parent.EmployeeType.IsPrimary) return null;
 
             child.EmployeeType = employeeTypes
-                .FirstOrDefault(x => x.Id == (employee.EmployeeType == null ? -1 : employee.EmployeeType.Id));
+                .FirstOrDefault(x => x.Id == (child.EmployeeType == null ? -1 : child.EmployeeType.Id));
             if (child.EmployeeType == null) return null;
             
             employee.BaseRate = 1000;
